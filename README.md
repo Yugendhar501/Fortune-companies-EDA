@@ -63,12 +63,11 @@ This EDA covers various aspects of the Fortune 500 dataset, including:
 - **Geographical Trends:** Visualize the global distribution of Fortune 500 companies to highlight economic hubs.
 - **Market Value Analysis:** Investigate the market valuation of companies and how it relates to their financial performance.
 
-```
+
 ## Usage
 
 The main analysis is contained within Jupyter Notebooks located in the `notebooks` directory. To run the notebooks, start a Jupyter Notebook server:
 
-```bash
-jupyter notebook
+
 
 
